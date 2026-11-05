@@ -1,0 +1,6 @@
+{
+  "name": "SermonClipper AI - Church Service Transcriber & Short Clips Generator",
+  "description": "Scrub church livestreams to isolate the sermon from worship, tithes, and announcements, transcribe scripture-grounded messages, and generate viral 9:16 vertical clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
